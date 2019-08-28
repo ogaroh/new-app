@@ -1,1 +1,2 @@
-# new-app
+# New App
+`Nativescript test app`
